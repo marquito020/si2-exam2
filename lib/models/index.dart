@@ -1,0 +1,9 @@
+export 'package:app_movil/models/user_model.dart';
+export 'package:app_movil/models/rol_model.dart';
+export 'package:app_movil/models/person_model.dart';
+export 'package:app_movil/models/tecnico_model.dart';
+export 'package:app_movil/models/tarjeta_model.dart';
+export 'package:app_movil/models/vehiculo_model.dart';
+export 'package:app_movil/models/taller_model.dart';
+export 'package:app_movil/models/asistencia_model.dart';
+export 'package:app_movil/models/servicio_model.dart';

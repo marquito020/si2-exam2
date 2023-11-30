@@ -1,0 +1,17 @@
+export 'package:app_movil/screens/auth/login_screen.dart';
+export 'package:app_movil/screens/onboarding_screen.dart';
+export 'package:app_movil/screens/auth/register_screen.dart';
+export 'package:app_movil/screens/vehiculo/list_vehiculo_screen.dart';
+export 'package:app_movil/screens/vehiculo/register_vehiculo_screen.dart';
+export 'package:app_movil/screens/credit card/tarjeta_index_page.dart';
+export 'package:app_movil/screens/credit card/tarjeta_create_page.dart';
+export 'package:app_movil/screens/servicios/list_servicios_screen.dart';
+export 'package:app_movil/screens/servicios/register_servicio_screen.dart';
+export 'package:app_movil/screens/taller/list_taller_screen.dart';
+export 'package:app_movil/screens/taller/widget/taller_item.dart';
+export 'package:app_movil/screens/asistencia/widgets/asistencia_form_screen.dart';
+export 'package:app_movil/screens/asistencia/asistencia_screen.dart';
+export 'package:app_movil/screens/tecnicos/widget/tecnico_item.dart';
+export 'package:app_movil/screens/tecnicos/list_tecnicos_screen.dart';
+export 'package:app_movil/screens/tecnicos/register_tecnicos_screen.dart';
+export 'package:app_movil/screens/notificacion/list_notificacion_screen.dart';
